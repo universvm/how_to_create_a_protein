@@ -1,4 +1,6 @@
-#  (Course) How to Create a Protein
+![](imgs/intro.png)
+
+Background image by Jaiden Deubner and Michael Bronstein
 
 ## Learning Objectives 
 1. Understand what proteins are, what they do, what they are made of, and how their 3D shape dictates function
@@ -40,6 +42,8 @@
 | ![](imgs/9ANT.png)                                              | 9ANT        | Orthogonal Bundle    | Mainly $\alpha$ | 3          |
 | ![](imgs/1ten.png)                                              | 1TEN        | Beta Sandwich        | Mainly $\beta$  | 3          |
 | ![](imgs/1bnh_big.png)                                          | 1BNH        | alpha/beta horseshoe | $\alpha\beta$   | 4          |
+
+
 **NB: In the table above, the sequence always starts from blue to red.**
 
 ### Approach 1: Frankeinstein
