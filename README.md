@@ -28,15 +28,22 @@ These amino acids interact to *fold* into distinct 3D structure:
 
 ![](imgs/protein_structures.png)
 
-Pictured above is Ubiquitin, a protein that contains both $alpha$ and $beta$ elements. As the name suggests, it is found virtually everywhere in eukaryotic organisms and performs important functions, such as signalling that a protein is ready for degradation. There are several ubiqutin-binding proteins, for example Vacuolar Protein Sorting-Associated Protein VPS23 (pictured in complex with Ubiquitin), which is involved in transporting proteins inside the cell.
+Pictured above is Ubiquitin, a protein that contains both $\alpha$ and $\beta$ elements. As the name suggests, it is found virtually everywhere in eukaryotic organisms and performs important functions, such as signalling that a protein is ready for degradation. There are several ubiqutin-binding proteins, for example Vacuolar Protein Sorting-Associated Protein VPS23 (pictured in complex with Ubiquitin), which is involved in transporting proteins inside the cell.
+
+
 
 ## Protein Design
 
-Protein sequence design aims to engineer or redesign proteins for improving stability, acquiring new functions, or increasing binding specificity. 
+Protein design aims to engineer or redesign proteins for improving stability, acquiring new functions, or increasing binding specificity. 
 
-For a protein 200 residues in length, there exists 2$^{260}$ (20$^{200}$) possible sequences. This number is larger than the number of people alive (8E$^{9}$), the number of people that ever lived (1E$^{11}$), and the number of atoms in the the universe (1E$^{80}$). Combined. Therefore, a large portion of the protein universe is waiting to be explored that could help improve current protein-drugs, design antibodies to help us cure disease, or creating new materials.
+For a protein 200 residues in length, there exists 2^260 (20^200) possible sequences. This number is larger than the number of people alive (8^9), the number of people that ever lived (1x10^11), and the number of atoms in the the universe (1x10^80). Combined. Therefore, a large portion of the protein universe is waiting to be explored that could help improve current protein-drugs, design antibodies to help us cure disease, or creating new materials.
 
+Typically, designers are interested in:
 
+1. Generating a 3D shape that performs a specific function
+2. Generating the sequence of amino acids to obtain that 3D structure
+
+In this course, you will piece together fragments of proteins to create a new protein. In a real design setting, you might instead use tools like [RFDiffusion](https://github.com/RosettaCommons/RFdiffusion) to generate 3D shapes, or  [TIMED](https://github.com/wells-wood-research/timed-design) to generate sequences. 
 
 ## Timetable
 
