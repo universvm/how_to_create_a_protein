@@ -1,6 +1,6 @@
 <div align="center">
 	<img src="imgs/intro.png"><br>
-  <h1>How to Create a Protein</h1><br>
+  <h1>How to Create a Protein</h1>
 </div>
 
 # Learning Objectives 
