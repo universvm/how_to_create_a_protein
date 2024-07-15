@@ -195,9 +195,9 @@ What is important is that you try your best and find something you're passionate
 
 **Q: What advice would you give to someone starting university?**
 
-A: Make friends and meet people. Have fun and enjoy the good parts of it. I wish I had spent less time trying to optimise my performance to get the grade I wanted, and more time enjoying learning. 
+A: First, don't be afraid to ask for help. It's ok not to be okay and don't be afraid to talk about your feelings. Then, make friends and meet people. Have fun and enjoy the good parts of university. 
 
-In the grand schemes of things, the most important skills to have are curiosity and motivation
+I wish I had spent less time trying to optimise my performance to get the grade I wanted, and more time enjoying learning. In the grand schemes of things, the most important skills to have are curiosity and motivation.
 
 
 # Credits
