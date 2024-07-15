@@ -1,14 +1,15 @@
 <div align="center">
 	<img src="imgs/intro.png"><br>
-  <h2>How to Create a Protein</h2><br>
+  <h1>How to Create a Protein</h1><br>
 </div>
 
-## Learning Objectives 
+
+# Learning Objectives 
 1. Understand what proteins are, what they do, what they are made of, and how their 3D shape dictates function
 2. General understanding of protein folding and how it is dictated by amino acids properties
 3. Understand the case for protein design, the large design space, and what are its potential applications
 
-## Overview
+# Overview
 
 | Activity                    | Duration (mins) | Description                                                                                                                                           |
 | --------------------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -16,11 +17,11 @@
 | Speed Friending Ice Breaker | 20              | Students chat for 3 minutes - 5 times. <br>In the remaining 5 minutes, each person says something about themselves and about the people they have met |
 | How to Create a Protein     | 25              | Introduction to Proteins and Protein Design                                                                                                           |
 | **BREAK**                   | 10              | **BREAK**                                                                                                                                             |
-| Design your Protein         | 60              | See section "Designing Proteins"                                                                                                                      |
+| Design your Protein         | 60              | [See section "Designing Proteins"](#designing-proteins)                                                                                               |
 
-## Designing Proteins
+# Designing Proteins
 
-### Goals 
+## Goals 
 1. Have fun (not optional)
 2. Create a cool protein (option 1)
 	1. Requirements:
@@ -47,7 +48,7 @@
 
 **NB: In the table above, the sequence always starts from blue to red.**
 
-### Approach 1: Frankeinstein
+## Approach 1: Frankeinstein
 1. Go to https://www.rcsb.org
 2. Click the number of structures available ![](imgs/Screenshot%202024-07-12%20at%2010.27.04.png)
 3. Scroll to find structures that interest you  ![](imgs/Screenshot%202024-07-12%20at%2010.29.52.png)
@@ -65,14 +66,14 @@
 9. Repeat to find another structure of interest.
 10. Combine the structures creatively. For example, to create a HELIX-LOOP-HELIX, you could do:
 	1. Helix 1: "RHPGNFGADAQGAMNKALELFRKDIAAKYKELGY"
-	2. Loop: "GGGGS" (see the Loops section below)
+	2. Loop: "GGGGS"[see the Loops section below](#loops)
 	3. Helix 2: "RHPGNFGADAQGAMNKALELFRKDIAAKYKELGY"
 11. Now you'll have a full sequence: "RHPGNFGADAQGAMNKALELFRKDIAAKYKELGYGGGGSRHPGNFGADAQGAMNKALELFRKDIAAKYKELGY"
 12. Use [AlphaFold3](https://alphafoldserver.com/about) (limit to 20 structures per day) or [ESMFold](https://esmatlas.com/resources?action=fold) (no limits) to fold the sequence. Did you get what you were expecting? If not, can you think of a reason why?
 	1. ![](imgs/Screenshot%202024-07-12%20at%2011.09.16.png)
 
 
-### Approach 2: Chroma
+## Approach 2: Chroma
 1. Go to https://colab.research.google.com/github/generatebio/chroma/blob/main/notebooks/ChromaDemo.ipynb
 2. Click on "Get API Key"
 	1. 
@@ -82,7 +83,10 @@
 5. Paste it and run the cell by Clicking on the "Play" Button (or Shift+Enter) ![](imgs/Screenshot%202024-07-15%20at%2010.07.25.png)
 6. Explore different options available!
 
-#### Loops
+## Approach 3: Combine!
+Use both approaches to come up with something cool!
+
+## Loops
 Loops are connecting elements between parts of proteins. As you've seen from the presentation, these can have several conformations. You can use sequences such as these as connectors between your $\alpha$-helices and $\beta$-sheets
 ![](imgs/Screenshot%202024-07-12%20at%2010.40.31.png)
 (Source: https://doi.org/10.1007/s00253-015-6985-3)
@@ -116,4 +120,5 @@ Have you followed this tutorial and designed your protein? Send us the `.pdb` fi
 
 # Credits
 
+- Chris Wells Wood: Helpful discussions and feedback
 - Jaiden Deubner and Michael Bronstein: Background Image of the logo
