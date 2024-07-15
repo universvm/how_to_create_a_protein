@@ -3,13 +3,42 @@
   <h1>How to Create a Protein</h1><br>
 </div>
 
-
 # Learning Objectives 
 1. Understand what proteins are, what they do, what they are made of, and how their 3D shape dictates function
 2. General understanding of protein folding and how it is dictated by amino acids properties
 3. Understand the case for protein design, the large design space, and what are its potential applications
 
 # Overview
+
+## Background
+
+Proteins are a fundamental part of life. They perform virtually all chemical reactions within a cell, from DNA replication, cell-to-cell signalling, energy production, and photosynthesis. They vary in physical consistency, as they are present in the shell of turtles, muscle fibres, and elastic tissue. 
+
+Proteins are polymers made of twenty building blocks called amino acids, or residues, each with a different structure and chemical property. 
+
+![](imgs/protein.png)
+
+
+These amino acids interact to *fold* into distinct 3D structure: 
+
+1. the **primary structure** of a protein is simply its linear sequence of amino acids. 
+2. The **secondary structure** arises when backbone atoms begin to interact locally to form $\alpha$-helices (helical) and $\beta$-sheets (flat)
+3. The **tertiary structure** refers to a protein's 3D shape and arises due to interactions with the side-chains (also R group)
+4. Protein subunits interact (non-covalently) to form the **quaternary structure**.
+
+![](imgs/protein_structures.png)
+
+Pictured above is Ubiquitin, a protein that contains both $alpha$ and $beta$ elements. As the name suggests, it is found virtually everywhere in eukaryotic organisms and performs important functions, such as signalling that a protein is ready for degradation. There are several ubiqutin-binding proteins, for example Vacuolar Protein Sorting-Associated Protein VPS23 (pictured in complex with Ubiquitin), which is involved in transporting proteins inside the cell.
+
+## Protein Design
+
+Protein sequence design aims to engineer or redesign proteins for improving stability, acquiring new functions, or increasing binding specificity. 
+
+For a protein 200 residues in length, there exists 2$^{260}$ (20$^{200}$) possible sequences. This number is larger than the number of people alive (8E$^{9}$), the number of people that ever lived (1E$^{11}$), and the number of atoms in the the universe (1E$^{80}$). Combined. Therefore, a large portion of the protein universe is waiting to be explored that could help improve current protein-drugs, design antibodies to help us cure disease, or creating new materials.
+
+
+
+## Timetable
 
 | Activity                    | Duration (mins) | Description                                                                                                                                           |
 | --------------------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -121,4 +150,8 @@ Have you followed this tutorial and designed your protein? Send us the `.pdb` fi
 # Credits
 
 - Chris Wells Wood: Helpful discussions and feedback
+- Molecular Biology of the Cell: Source for the Background and Overview Section
 - Jaiden Deubner and Michael Bronstein: Background Image of the logo
+ 
+
+
