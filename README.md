@@ -162,34 +162,39 @@ Have you followed this tutorial and designed your protein? Send us the `.pdb` fi
 # FAQ
 
 **Q: How can I learn more about Protein Design and AI?**
+
 A: The video mentioned in the [overview](#overview) section is a good introduction to proteins. Then you could watch my [TEDx talk](https://www.youtube.com/watch?v=3PbEgLw6lJ0) or listen to the [The Digital Twin podcast episode](https://www.youtube.com/watch?v=GlbGIPmzSr8) (also on Spotify).
 
 For a more detailed read, you might want to have a look at the Code Repository of [TIMED](https://github.com/wells-wood-research/timed-design), read the blogpost [How to Solve the Protein Folding Problem: AlphaFold2 ](https://towardsdatascience.com/how-to-solve-the-protein-folding-problem-alphafold2-6c81faba670d?sk=2ad7494360959aad1e0552754da145fd)), or read the [paper](https://academic.oup.com/peds/article/doi/10.1093/protein/gzae002/7591701).
 
 **Q: What should I study to get into this field?**
+
 A: The protein design problem is very hard and multidisciplinary problem. Therefore, there is no one "degree" that is right or wrong. I would generally recommend STEM subjects such as Biochemistry, Computer Science, Mathematics, Physics/Engineering etc...
 
 In my opinion however, it is easier to talk about skills that you need:
 
-- Statistics: If you are in high school, pay attention to statistics. It's very important and gives you intuitive understanding for solving problems.
-- Coding: Learn coding. You don't need university to learn coding (in fact you can graduate from some computer science degrees without ever coding). There are lots of online tutorials, free books, Google/Bing. Personally, I'm more pragmatic and need "projects" to learn so I encourage you to contact interesting people at universities that could help create a small project for you to learn. 
-- Biochemistry: The basics of biochemistry are relatively simple but important. It seems like nowadays lots of "computer scientists" think they can skip this and publish something meaningful. This is not the case (and you can tell!). I like the book Molecular Biology of the Cell (don't worry about the latest version of the book, the fundamentals don't change).
-- Curiosity: This is hard to teach but easy to develop by doing things outside courses. It could be anything, from sports, to games, boardgames, reading.
+- **Statistics**: If you are in high school, pay attention to statistics. It's very important and gives you intuitive understanding for solving problems.
+- **Coding**: Learn coding. You don't need university to learn coding (in fact you can graduate from some computer science degrees without ever coding). There are lots of online tutorials, free books, Google/Bing. Personally, I'm more pragmatic and need "projects" to learn so I encourage you to contact interesting people at universities that could help create a small project for you to learn. 
+- **Biochemistry**: The basics of biochemistry are relatively simple but important. It seems like nowadays lots of "computer scientists" think they can skip this and publish something meaningful. This is not the case (and you can tell!). I like the book Molecular Biology of the Cell (don't worry about the latest version of the book, the fundamentals don't change).
+- **Curiosity**: This is hard to teach but easy to develop by doing things outside courses. It could be anything, from sports, to games, boardgames, reading.
 
 Generally, PhDs are very common in research, however, you can have a feel of what research is like in Undergrad (internships/dissertation), Postgrad (MSc / MScR ie. Master by Research). 
 
 **Q: Right... Then, what did you do to get into this field?**
+
 A: I studied Biochemistry (BSc Hons) at the University of Edinburgh. I then signed up to the Biomedical AI program to do my MScR and (now) PhD. 
 
 You can have a look at my [CV here](https://github.com/universvm/cv).
 
 
 **Q: What grades do you need to get into this field?**
+
 A: Grades don't matter as much as you think. I myself was not an excellent student at university and have in fact failed courses that were supposed to be super easy. The main point here is that grades are (in theory) an indication of how much time you have spent studying and understanding a subject. However, in the real world, problems come in all sorts of way or form and may not look like anything you have seen before. 
 
 What is important is that you try your best and find something you're passionate about. The name of the university does not matter much.
 
 **Q: What advice would you give to someone starting university?**
+
 A: Make friends and meet people. Have fun and enjoy the good parts of it. I wish I had spent less time trying to optimise my performance to get the grade I wanted, and more time enjoying learning. 
 
 In the grand schemes of things, the most important skills to have are curiosity and motivation
