@@ -1,5 +1,5 @@
 <div align="center">
-	![](imgs/intro.png)
+	<img src="imgs/intro.png"><br>
   <h2>How to Create a Protein</h2><br>
 </div>
 
@@ -79,13 +79,41 @@
 3. Agree and add your the contact information 
 	1. ![](imgs/Screenshot%202024-07-15%20at%2010.05.26.png)
 4. Copy the Token ![](imgs/Screenshot%202024-07-15%20at%2010.06.02.png)
-5. Paste it and run the cell by Clicking on the "Play" Button (or Shift+Enter) ![](Screenshot%202024-07-15%20at%2010.07.25.png)
+5. Paste it and run the cell by Clicking on the "Play" Button (or Shift+Enter) ![](imgs/Screenshot%202024-07-15%20at%2010.07.25.png)
 6. Explore different options available!
+
 #### Loops
 Loops are connecting elements between parts of proteins. As you've seen from the presentation, these can have several conformations. You can use sequences such as these as connectors between your $\alpha$-helices and $\beta$-sheets
 ![](imgs/Screenshot%202024-07-12%20at%2010.40.31.png)
 (Source: https://doi.org/10.1007/s00253-015-6985-3)
 
-## Credits
+# 3D Printing
+Once you have created your `.pdb` file with , you can export it to `.stl` using [PyMol](https://pymol.org) (free for academic use). To do this:
+
+1. Open PyMol
+2. Open your `.pdb` file
+3. In the menu on the right, click the "H" under the "All" object 
+	1. ![](imgs/Screenshot%202024-07-15%20at%2010.25.57.png)
+4. Select "everything" to hide everything
+	1. ![](imgs/Screenshot%202024-07-15%20at%2010.26.23.png)
+5. Your protein is now hidden as shown below:
+	1. ![](imgs/Screenshot%202024-07-15%20at%2010.26.31.png)
+6. In the menu on the right, click on "S" and select "Surface" 
+	1. ![](imgs/Screenshot%202024-07-15%20at%2010.26.42.png)
+7. Your protein will look like this:
+	1. ![](imgs/Screenshot%202024-07-15%20at%2010.26.49.png)
+8. Click on File > Export Image As > STL 
+	1. ![](imgs/Screenshot%202024-07-15%20at%2010.26.59.png)
+9. Save the file in a convenient location
+
+STL files can then be opened in slicers (PrusaSlicer, Ultimaker Cura...) for 3D printing. Make sure to use supports. For better results, use PVA (soluble) supports.
+
+![](imgs/ GPOal72XMAAWEvN.jpg)
+
+
+# Hall of Fame
+Have you followed this tutorial and designed your protein? Send us the `.pdb` file by opening an issue or by emailing Leo at name.lastname@ed.ac.uk (name = leonardo, lastname=castorina). 
+
+# Credits
 
 - Jaiden Deubner and Michael Bronstein: Background Image of the logo
