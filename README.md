@@ -1,6 +1,7 @@
-![](imgs/intro.png)
-
-Background image by Jaiden Deubner and Michael Bronstein
+<div align="center">
+	![](imgs/intro.png)
+  <h2>How to Create a Protein</h2><br>
+</div>
 
 ## Learning Objectives 
 1. Understand what proteins are, what they do, what they are made of, and how their 3D shape dictates function
@@ -72,7 +73,19 @@ Background image by Jaiden Deubner and Michael Bronstein
 
 
 ### Approach 2: Chroma
-
+1. Go to https://colab.research.google.com/github/generatebio/chroma/blob/main/notebooks/ChromaDemo.ipynb
+2. Click on "Get API Key"
+	1. 
+3. Agree and add your the contact information 
+	1. ![](imgs/Screenshot%202024-07-15%20at%2010.05.26.png)
+4. Copy the Token ![](imgs/Screenshot%202024-07-15%20at%2010.06.02.png)
+5. Paste it and run the cell by Clicking on the "Play" Button (or Shift+Enter) ![](Screenshot%202024-07-15%20at%2010.07.25.png)
+6. Explore different options available!
 #### Loops
+Loops are connecting elements between parts of proteins. As you've seen from the presentation, these can have several conformations. You can use sequences such as these as connectors between your $\alpha$-helices and $\beta$-sheets
 ![](imgs/Screenshot%202024-07-12%20at%2010.40.31.png)
-Obtained from https://doi.org/10.1007/s00253-015-6985-3
+(Source: https://doi.org/10.1007/s00253-015-6985-3)
+
+## Credits
+
+- Jaiden Deubner and Michael Bronstein: Background Image of the logo
