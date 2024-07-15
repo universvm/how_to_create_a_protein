@@ -10,6 +10,11 @@
 
 # Overview
 
+If you prefer a video instead of text, watch this!
+
+[![](https://img.youtube.com/vi/Am45c83iLg4/0.jpg)](https://www.youtube.com/watch?v=Am45c83iLg4)
+
+
 ## Background
 
 Proteins are a fundamental part of life. They perform virtually all chemical reactions within a cell, from DNA replication, cell-to-cell signalling, energy production, and photosynthesis. They vary in physical consistency, as they are present in the shell of turtles, muscle fibres, and elastic tissue. 
@@ -153,6 +158,11 @@ STL files can then be opened in slicers (PrusaSlicer, Ultimaker Cura...) for 3D 
 
 # Hall of Fame
 Have you followed this tutorial and designed your protein? Send us the `.pdb` file by opening an issue or by emailing Leo at name.lastname@ed.ac.uk (name = leonardo, lastname=castorina). 
+
+# FAQ
+
+**Q: How can I learn more about Protein Design and AI?**
+A: Wa
 
 # Credits
 
