@@ -108,7 +108,7 @@ Once you have created your `.pdb` file with , you can export it to `.stl` using 
 
 STL files can then be opened in slicers (PrusaSlicer, Ultimaker Cura...) for 3D printing. Make sure to use supports. For better results, use PVA (soluble) supports.
 
-![](imgs/ GPOal72XMAAWEvN.jpg)
+![](imgs/GPOal72XMAAWEvN.jpg)
 
 
 # Hall of Fame
