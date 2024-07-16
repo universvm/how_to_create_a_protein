@@ -157,7 +157,15 @@ STL files can then be opened in slicers (PrusaSlicer, Ultimaker Cura...) for 3D 
 
 
 # Hall of Fame
+
+![](imgs/hall_of_fame.png)
+
+
+
 Have you followed this tutorial and designed your protein? Send us the `.pdb` file by opening an issue or by emailing Leo at name.lastname@ed.ac.uk (name = leonardo, lastname=castorina). 
+
+![](imgs/examples.png)
+
 
 # FAQ
 
@@ -177,6 +185,7 @@ In my opinion however, it is easier to talk about skills that you need:
 - **Coding**: Learn coding. You don't need university to learn coding (in fact you can graduate from some computer science degrees without ever coding). There are lots of online tutorials, free books, Google/Bing. Personally, I'm more pragmatic and need "projects" to learn so I encourage you to contact interesting people at universities that could help create a small project for you to learn. 
 - **Biochemistry**: The basics of biochemistry are relatively simple but important. It seems like nowadays lots of "computer scientists" think they can skip this and publish something meaningful. This is not the case (and you can tell!). I like the book Molecular Biology of the Cell (don't worry about the latest version of the book, the fundamentals don't change).
 - **Curiosity**: This is hard to teach but easy to develop by doing things outside courses. It could be anything, from sports, to games, boardgames, reading.
+-  **Note-taking**: Value taking notes in tools like Obsidian. Remember to keep it simple.
 
 Generally, PhDs are very common in research, however, you can have a feel of what research is like in Undergrad (internships/dissertation), Postgrad (MSc / MScR ie. Master by Research). 
 
