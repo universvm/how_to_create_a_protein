@@ -79,14 +79,15 @@ In this course, you will create new proteins by combinding fragments. In a real 
 | ---------------------------------------------------------- | ----------- | -------------------- | --------------- | ---------- |
 | HELIX-LOOP-HELIX                                           | -           | -                    | $\alpha$        | 1          |
 | SHEET-LOOP-SHEET                                           | -           | -                    | $\beta$         | 1          |
-| ![](imgs/3u7u.png)                                              | 3U7U        | Ribbon               | Mainly $\beta$  | 1          |
+| <img src="imgs/3u7u.png" style="max-height:300px;">        | 3U7U        | Ribbon               | Mainly $\beta$  | 1          |
 | (HELIX-LOOP-HELIX)4                                        | -           | -                    | $\alpha$        | 2          |
 | (SHEET-LOOP-SHEET)4                                        | -           | -                    | $\beta$         | 2          |
-| ![](imgs/3RO3.png)                                              | 3RO3        | Alpha Horseshoe      | Mainly $\alpha$ | 2          |
-| HELIX-LOOP-SHEET-LOOP-SHEET-LOOP-HELIX ![](imgs/1bnh_small.png) | 1BNH        | -                    | $\alpha\beta$   | 2          |
-| ![](imgs/9ANT.png)                                              | 9ANT        | Orthogonal Bundle    | Mainly $\alpha$ | 3          |
-| ![](imgs/1ten.png)                                              | 1TEN        | Beta Sandwich        | Mainly $\beta$  | 3          |
-| ![](imgs/1bnh_big.png)                                          | 1BNH        | alpha/beta horseshoe | $\alpha\beta$   | 4          |
+| <img src="imgs/3RO3.png" style="max-height:300px;">        | 3RO3        | Alpha Horseshoe      | Mainly $\alpha$ | 2          |
+| HELIX-LOOP-SHEET-LOOP-SHEET-LOOP-HELIX <img src="imgs/1bnh_small.png" style="max-height:300px;"> | 1BNH | - | $\alpha\beta$ | 2          |
+| <img src="imgs/9ANT.png" style="max-height:300px;">        | 9ANT        | Orthogonal Bundle    | Mainly $\alpha$ | 3          |
+| <img src="imgs/1ten.png" style="max-height:300px;">        | 1TEN        | Beta Sandwich        | Mainly $\beta$  | 3          |
+| <img src="imgs/1bnh_big.png" style="max-height:300px;">    | 1BNH        | alpha/beta horseshoe | $\alpha\beta$   | 4          |
+
 
 
 **NB: In the table above, the sequence always starts from blue to red.**
