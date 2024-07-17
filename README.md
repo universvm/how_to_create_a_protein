@@ -21,7 +21,10 @@ Proteins are the architects of life on earth. They perform virtually all chemica
 
 Proteins are polymers made of 20 building blocks called amino acids, or residues, each with unique structure and chemical properties. 
 
-![](imgs/protein.png)
+
+<div align="center">
+	<img src="imgs/protein.png">
+</div>
 
 
 These amino acids interact to *fold* into distinct 3D structure: 
@@ -118,8 +121,8 @@ In this course, you will create new proteins by combinding fragments. In a real 
 2. Click on "Get API Key"
 	1. 
 3. Agree and add your the contact information 
-	1. ![](imgs/Screenshot%202024-07-15%20at%2010.05.26.png)
-4. Copy the Token ![](imgs/Screenshot%202024-07-15%20at%2010.06.02.png)
+	1. <img src="imgs/Screenshot%202024-07-15%20at%2010.05.26.png" style="width:300px; height:auto;">
+4. Copy the Token <img src="imgs/Screenshot%202024-07-15%20at%2010.06.02.png" style="width:300px; height:auto;">
 5. Paste it and run the cell by Clicking on the "Play" Button (or Shift+Enter) ![](imgs/Screenshot%202024-07-15%20at%2010.07.25.png)
 6. Explore different options available!
 
