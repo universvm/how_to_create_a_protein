@@ -121,8 +121,8 @@ In this course, you will create new proteins by combinding fragments. In a real 
 2. Click on "Get API Key"
 	1. 
 3. Agree and add your the contact information 
-	1. <img src="imgs/Screenshot%202024-07-15%20at%2010.05.26.png" style="width:300px; height:auto;">
-4. Copy the Token <img src="imgs/Screenshot%202024-07-15%20at%2010.06.02.png" style="width:300px; height:auto;">
+	1. <img src="imgs/Screenshot%202024-07-15%20at%2010.05.26.png" style="width:600px; height:auto;">
+4. Copy the Token <img src="imgs/Screenshot%202024-07-15%20at%2010.06.02.png" style="width:600px; height:auto;">
 5. Paste it and run the cell by Clicking on the "Play" Button (or Shift+Enter) ![](imgs/Screenshot%202024-07-15%20at%2010.07.25.png)
 6. Explore different options available!
 
@@ -136,8 +136,8 @@ Loops are connecting elements between parts of proteins. As you've seen from the
 
 # 3D Printing
 
-![](imgs/hands_on_3dPrint.png)
 
+![](imgs/hands_on_3dPrint.jpg)
 
 
 Once you have created your `.pdb` file with , you can export it to `.stl` using [PyMol](https://pymol.org) (free for academic use). To do this:
@@ -147,15 +147,15 @@ Once you have created your `.pdb` file with , you can export it to `.stl` using 
 3. In the menu on the right, click the "H" under the "All" object 
 	1. ![](imgs/Screenshot%202024-07-15%20at%2010.25.57.png)
 4. Select "everything" to hide everything
-	1. ![](imgs/Screenshot%202024-07-15%20at%2010.26.23.png)
+	1. <img src="imgs/Screenshot%202024-07-15%20at%2010.26.23.png" style="width:300px; height:auto;">
 5. Your protein is now hidden as shown below:
 	1. ![](imgs/Screenshot%202024-07-15%20at%2010.26.31.png)
 6. In the menu on the right, click on "S" and select "Surface" 
-	1. ![](imgs/Screenshot%202024-07-15%20at%2010.26.42.png)
+	1. <img src="imgs/Screenshot%202024-07-15%20at%2010.26.42.png" style="width:300px; height:auto;">
 7. Your protein will look like this:
 	1. ![](imgs/Screenshot%202024-07-15%20at%2010.26.49.png)
 8. Click on File > Export Image As > STL 
-	1. ![](imgs/Screenshot%202024-07-15%20at%2010.26.59.png)
+	1. <img src="imgs/Screenshot%202024-07-15%20at%2010.26.59.png" style="width:300px; height:auto;">
 9. Save the file in a convenient location
 
 STL files can then be opened in slicers (PrusaSlicer, Ultimaker Cura...) for 3D printing. Make sure to use supports. For better results, use PVA (soluble) supports.
