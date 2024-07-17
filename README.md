@@ -79,14 +79,14 @@ In this course, you will create new proteins by combinding fragments. In a real 
 | ---------------------------------------------------------- | ----------- | -------------------- | --------------- | ---------- |
 | HELIX-LOOP-HELIX                                           | -           | -                    | $\alpha$        | 1          |
 | SHEET-LOOP-SHEET                                           | -           | -                    | $\beta$         | 1          |
-| <img src="imgs/3u7u.png" style="height:100px;">        | 3U7U        | Ribbon               | Mainly $\beta$  | 1          |
+| <img src="imgs/3u7u.png" style="height:200px;">        | 3U7U        | Ribbon               | Mainly $\beta$  | 1          |
 | (HELIX-LOOP-HELIX)4                                        | -           | -                    | $\alpha$        | 2          |
 | (SHEET-LOOP-SHEET)4                                        | -           | -                    | $\beta$         | 2          |
-| <img src="imgs/3RO3.png" style="height:100px;">        | 3RO3        | Alpha Horseshoe      | Mainly $\alpha$ | 2          |
-| HELIX-LOOP-SHEET-LOOP-SHEET-LOOP-HELIX <img src="imgs/1bnh_small.png" style="height:100px;"> | 1BNH | - | $\alpha\beta$ | 2          |
-| <img src="imgs/9ANT.png" style="height:100px;">        | 9ANT        | Orthogonal Bundle    | Mainly $\alpha$ | 3          |
-| <img src="imgs/1ten.png" style="height:100px;">        | 1TEN        | Beta Sandwich        | Mainly $\beta$  | 3          |
-| <img src="imgs/1bnh_big.png" style="height:100px;">    | 1BNH        | alpha/beta horseshoe | $\alpha\beta$   | 4          |
+| <img src="imgs/3RO3.png" style="height:200px;">        | 3RO3        | Alpha Horseshoe      | Mainly $\alpha$ | 2          |
+| HELIX-LOOP-SHEET-LOOP-SHEET-LOOP-HELIX <br> <img src="imgs/1bnh_small.png" style="height:200px;"> | 1BNH | - | $\alpha\beta$ | 2          |
+| <img src="imgs/9ANT.png" style="height:200px;">        | 9ANT        | Orthogonal Bundle    | Mainly $\alpha$ | 3          |
+| <img src="imgs/1ten.png" style="height:200px;">        | 1TEN        | Beta Sandwich        | Mainly $\beta$  | 3          |
+| <img src="imgs/1bnh_big.png" style="height:200px;">    | 1BNH        | alpha/beta horseshoe | $\alpha\beta$   | 4          |
 
 
 
