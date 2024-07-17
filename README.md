@@ -220,6 +220,7 @@ I wish I had spent less time trying to optimise my performance to get the grade 
 - Chris Wells Wood: Helpful discussions and feedback
 - Molecular Biology of the Cell: Source for the Background and Overview Section
 - Jaiden Deubner and Michael Bronstein: Background Image of the logo
+- George Karabassis and Akrit Ghimire: Helping me run the workshop and taking pictures
  
 
 
