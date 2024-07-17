@@ -13,7 +13,7 @@
 If you prefer a video instead of text, watch this!
 
 <div align="center">
-	<img src="imgs/video.png" style="width:500px; height:auto;">
+	<a href="https://www.youtube.com/watch?v=Am45c83iLg4"> <img src="imgs/video.png" style="width:500px; height:auto;"></a>
 </div>
 
 ## Background
