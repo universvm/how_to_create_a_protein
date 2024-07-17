@@ -17,9 +17,9 @@ If you prefer a video instead of text, watch this!
 
 ## Background
 
-Proteins are a fundamental part of life. They perform virtually all chemical reactions within a cell, from DNA replication, cell-to-cell signalling, energy production, and photosynthesis. They vary in physical consistency, as they are present in the shell of turtles, muscle fibres, and elastic tissue. 
+Proteins are the architects of life on earth. They perform virtually all chemical reactions within a cell, from DNA replication, cell-to-cell signalling, energy production, and photosynthesis. They vary in physical consistency, as they are present in the shell of turtles, muscle fibres, and elastic tissue. 
 
-Proteins are polymers made of twenty building blocks called amino acids, or residues, each with a different structure and chemical property. 
+Proteins are polymers made of 20 building blocks called amino acids, or residues, each with unique structure and chemical properties. 
 
 ![](imgs/protein.png)
 
@@ -36,26 +36,25 @@ These amino acids interact to *fold* into distinct 3D structure:
 Pictured above is Ubiquitin, a protein that contains both $\alpha$ and $\beta$ elements. As the name suggests, it is found virtually everywhere in eukaryotic organisms and performs important functions, such as signalling that a protein is ready for degradation. There are several ubiqutin-binding proteins, for example Vacuolar Protein Sorting-Associated Protein VPS23 (pictured in complex with Ubiquitin), which is involved in transporting proteins inside the cell.
 
 
-
 ## Protein Design
 
-Protein design aims to engineer or redesign proteins for improving stability, acquiring new functions, or increasing binding specificity. 
+Protein design aims to engineer or redesign proteins for improving stability, acquiring new functions, or increased binding specificity. 
 
-For a protein 200 residues in length, there exists 2^260 (20^200) possible sequences. This number is larger than the number of people alive (8^9), the number of people that ever lived (1x10^11), and the number of atoms in the the universe (1x10^80). Combined. Therefore, a large portion of the protein universe is waiting to be explored that could help improve current protein-drugs, design antibodies to help us cure disease, or creating new materials.
+For a protein with 200 residues, there exists 2^260 (20^200) possible sequences. This number is larger than the number of people alive (8^9), the number of people that ever lived (1x10^11), and the number of atoms in the the universe (1x10^80). Combined. Therefore, a large portion of the protein universe is waiting to be explored that could help improve current protein-drugs, design antibodies to help us cure disease, or creating new materials.
 
 Typically, designers are interested in:
 
-1. Generating a 3D shape that performs a specific function
-2. Generating the sequence of amino acids to obtain that 3D structure
+1. Generating 3D shapes with specific functions.
+2. Generating the sequence of amino acids that folds into the desired 3D structur.
 
-In this course, you will piece together fragments of proteins to create a new protein. In a real design setting, you might instead use tools like [RFDiffusion](https://github.com/RosettaCommons/RFdiffusion) to generate 3D shapes, or  [TIMED](https://github.com/wells-wood-research/timed-design) to generate sequences. 
+In this course, you will create new proteins by combinding fragments. In a real design setting, you might instead use tools like [RFDiffusion](https://github.com/RosettaCommons/RFdiffusion) to generate 3D shapes, or  [TIMED](https://github.com/wells-wood-research/timed-design) to generate sequences. 
 
 ## Timetable
 
 | Activity                    | Duration (mins) | Description                                                                                                                                           |
 | --------------------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Introduction                | 5               | Brief introduction to the course                                                                                                                      |
-| Speed Friending Ice Breaker | 20              | Students chat for 3 minutes - 5 times. <br>In the remaining 5 minutes, each person says something about themselves and about the people they have met |
+| Speed Friending Ice Breaker | 20              | Students chat for 3 minutes - 5 times. Each person shares something about themselves and the people they met. |
 | How to Create a Protein     | 25              | Introduction to Proteins and Protein Design                                                                                                           |
 | **BREAK**                   | 10              | **BREAK**                                                                                                                                             |
 | Design your Protein         | 60              | [See section "Designing Proteins"](#designing-proteins)                                                                                               |
@@ -92,7 +91,7 @@ In this course, you will piece together fragments of proteins to create a new pr
 ## Approach 1: Frankeinstein
 1. Go to https://www.rcsb.org
 2. Click the number of structures available ![](imgs/Screenshot%202024-07-12%20at%2010.27.04.png)
-3. Scroll to find structures that interest you  ![](imgs/Screenshot%202024-07-12%20at%2010.29.52.png)
+3. Scroll to find structures that interest you. You can try keywords like "Enzyme", "Bacteria", "Human"  ![](imgs/Screenshot%202024-07-12%20at%2010.29.52.png)
 4. Click on the structure of interest ![](imgs/Screenshot%202024-07-12%20at%2010.30.30.png)
 5. Click on "Structure" to open the 3D structure ![](imgs/Screenshot%202024-07-12%20at%2010.30.58.png)
 6. Identify the 3D area that you are interested in, for example, this helix
@@ -133,6 +132,11 @@ Loops are connecting elements between parts of proteins. As you've seen from the
 (Source: https://doi.org/10.1007/s00253-015-6985-3)
 
 # 3D Printing
+
+![](imgs/hands_on_3dPrint.png)
+
+
+
 Once you have created your `.pdb` file with , you can export it to `.stl` using [PyMol](https://pymol.org) (free for academic use). To do this:
 
 1. Open PyMol
@@ -159,7 +163,6 @@ STL files can then be opened in slicers (PrusaSlicer, Ultimaker Cura...) for 3D 
 # Hall of Fame
 
 ![](imgs/hall_of_fame.png)
-
 
 
 Have you followed this tutorial and designed your protein? Send us the `.pdb` file by opening an issue or by emailing Leo at name.lastname@ed.ac.uk (name = leonardo, lastname=castorina). 
@@ -191,7 +194,7 @@ Generally, PhDs are very common in research, however, you can have a feel of wha
 
 **Q: Right... Then, what did you do to get into this field?**
 
-A: I studied Biochemistry (BSc Hons) at the University of Edinburgh. I then signed up to the Biomedical AI program to do my MScR and (now) PhD. 
+A: I studied Biochemistry (BSc Hons) at the University of Edinburgh. I then continued on with [Biomedical AI CDT](https://web.inf.ed.ac.uk/cdt/biomedical-ai) to do my MScR and (now) PhD. 
 
 You can have a look at my [CV here](https://github.com/universvm/cv).
 
