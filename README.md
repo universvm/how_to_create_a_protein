@@ -12,8 +12,9 @@
 
 If you prefer a video instead of text, watch this!
 
-[![](https://img.youtube.com/vi/Am45c83iLg4/0.jpg)](https://www.youtube.com/watch?v=Am45c83iLg4)
-
+<div align="center">
+	<img src="imgs/video.png" style="width:500px; height:auto;">
+</div>
 
 ## Background
 
