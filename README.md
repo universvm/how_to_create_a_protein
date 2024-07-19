@@ -44,7 +44,7 @@ Pictured above is Ubiquitin, a protein that contains both $\alpha$ and $\beta$ e
 
 Protein design aims to engineer or redesign proteins for improving stability, acquiring new functions, or increased binding specificity. 
 
-For a protein with 200 residues, there exists 2^260 (20^200) possible sequences. This number is larger than the number of people alive (8^9), the number of people that ever lived (1x10^11), and the number of atoms in the the universe (1x10^80). Combined. Therefore, a large portion of the protein universe is waiting to be explored that could help improve current protein-drugs, design antibodies to help us cure disease, or creating new materials.
+For a protein with 200 residues, there exists 2^260 (20^200) possible sequences. This number is larger than the number of people alive (8^9), the number of people that ever lived (1x10^11), and the number of atoms in the universe (1x10^80). Combined. Therefore, a large portion of the protein universe is waiting to be explored that could help improve current protein-drugs, design antibodies to help us cure disease, or creating new materials.
 
 Typically, designers are interested in:
 
